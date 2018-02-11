@@ -6,7 +6,7 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/ZanooKer/HW3-Tensor/blob/master/weight.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/ZanooKer/HW3-Tensor/blob/master/weights.tsv"
     }
   ]
 }
